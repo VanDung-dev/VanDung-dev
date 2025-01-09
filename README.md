@@ -32,8 +32,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/VanDung-dev/VanDung-dev/output/snake.svg" alt="Snake animation" />
-
-###
