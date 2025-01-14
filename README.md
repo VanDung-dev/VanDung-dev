@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="./your-header-image-name.png" alt="Header" />
+  <img src="./github-header-image.png" alt="Header" />
 </div>
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="./your-header-image-name.png" height="200" alt="Header" />
+  <img src="./github-header-image.png" height="200" alt="Header" />
 </div>
 
 ###
