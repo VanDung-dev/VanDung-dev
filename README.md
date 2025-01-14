@@ -1,5 +1,6 @@
-![Header](./your-header-image-name.png)
-
+<div align="left">
+  ![Header](./your-header-image-name.png)
+</div>
 ###
 
 <div align="left">
@@ -13,3 +14,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<h2 align="left">Hi 👋! My name is Dũng</h2>
+
+###
+
+<div align="center">
+  <img height="200" ![Header](./your-header-image-name.png)  />
+</div>
+
+###
