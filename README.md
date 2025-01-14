@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dũng</h2>
+![Header](./your-header-image-name.png)
 
 ###
 
