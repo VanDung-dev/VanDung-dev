@@ -1,5 +1,5 @@
 <div align="left">
-  ![Header](./your-header-image-name.png)
+  <img src="./your-header-image-name.png" alt="Header" />
 </div>
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="200" ![Header](./your-header-image-name.png)  />
+  <img src="./your-header-image-name.png" height="200" alt="Header" />
 </div>
 
 ###
