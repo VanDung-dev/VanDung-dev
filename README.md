@@ -1,6 +1,7 @@
-<div align="left">
-  <img src="./github-header-image.png" alt="Header" />
+<div align="center">
+  <img src="./github-header-image.png"  alt="Header" />
 </div>
+
 ###
 
 <div align="left">
@@ -15,11 +16,5 @@
 </div>
 
 <h2 align="left">Hi 👋! My name is Dũng</h2>
-
-###
-
-<div align="center">
-  <img src="./github-header-image.png" height="200" alt="Header" />
-</div>
 
 ###
