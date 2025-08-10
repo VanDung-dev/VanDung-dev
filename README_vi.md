@@ -1,6 +1,5 @@
 
-# 👋 Chào bạn!
-## Tôi là Nguyễn Lê Văn Dũng
+# 👋 Chào bạn! Tôi là Nguyễn Lê Văn Dũng
 ### 🚀 Kỹ sư Python
 Xây dựng các giải pháp sáng tạo với Python
 > ☕ Code không chạy? Đừng lo, đó chỉ là... tính năng thử nghiệm chưa hoàn thiện!
@@ -82,20 +81,7 @@ Dự án kết hợp giữa mạng nơ-ron (CNN + Transformer) và thuật toán
 
 ## 📬 Liên hệ
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dung-nguyen-211bab348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&effect=plastic" />
-  </a>
-  
-  <a href="https://t.me/vandungdev">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&effect=plastic" />
-  </a>
-  
-  <a href="https://github.com/VanDung-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&effect=plastic" />
-  </a>
-  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&effect=plastic)](https://www.linkedin.com/in/dung-nguyen-211bab348/)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&effect=plastic)](https://t.me/vandungdev)[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&effect=plastic)](https://github.com/VanDung-dev)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
