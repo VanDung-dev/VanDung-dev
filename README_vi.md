@@ -1,23 +1,23 @@
 
-# 👋 Hey there!
+# 👋 Chào bạn!
 <div>
-  <h2>My name is Nguyen Le Van Dung</h2>
-  <h3>🚀 Python Engineer</h3>
-  <p><em>Building innovative solutions with Python</em></p>
+  <h2>Tôi là Nguyễn Lê Văn Dũng</h2>
+  <h3>🚀 Kỹ sư Python</h3>
+  <p><em>Xây dựng các giải pháp sáng tạo với Python</em></p>
 </div>
 
 ---
-> ☕ Code not running? Don't worry, it's just... The testing feature is not complete!
+> ☕ Code không chạy? Đừng lo, đó chỉ là... tính năng thử nghiệm chưa hoàn thiện!
 ---
 
-## 📚 Academic Profile
+## 📚 Hồ sơ học thuật
 
-🎓 **National Institute of International Education (NIIE), Nguyen Tat Thanh University**  
-📘 Information Technology - Software Engineering
+🎓 **Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành**  
+📘 Công nghệ Thông tin - Kỹ sư Phần mềm
 
 ---
 
-## 🏅 HarvardX Certificate &nbsp;
+## 🏅 Chứng chỉ HarvardX &nbsp;
 
 <div style="background: #f8f9fa; border-left: 4px solid #A51C30; padding: 10px 15px; margin: 15px 0; border-radius: 4px;">
   <h2 style="color: #333; margin: 0;">
@@ -39,18 +39,18 @@
 
 ---
 
-## 💼 Technical Skills
+## 💼 Kỹ năng chuyên môn
 
-### 🛠️ Core Python Expertise
+### 🛠️ Chuyên môn Python cốt lõi
 <p>
   <img src="https://img.shields.io/badge/  Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/  OOP-3776AB?logo=python&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/  Async-3776AB?logo=python&logoColor=white" alt="Asynchronous" />
+  <img src="https://img.shields.io/badge/  Asynchronous-3776AB?logo=python&logoColor=white" alt="Asynchronous" />
   <img src="https://img.shields.io/badge/  Data Structures & Algorithms-3776AB?logo=python&logoColor=white" alt="DSA" />
 </p>
 
 
-### 🧩 Python Libraries & Frameworks
+### 🧩 Thư viện & Framework Python
 <p>
   <img src="https://img.shields.io/badge/  NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/  Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
@@ -60,7 +60,7 @@
 </p>
 
 
-### 🧰 Tools & Technologies
+### 🧰 Công cụ & Công nghệ
 <p>
   <img src="https://img.shields.io/badge/  Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/  Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
@@ -72,48 +72,48 @@
 
 ---
 
-## 🌟 Featured Projects &nbsp;
+## 🌟 Dự án nổi bật &nbsp;
 
-### 📌 [Chess_Python: Custom Chess Engine](https://github.com/VanDung-dev/Chess_Python)
-A cross-platform chess game built with PyGame featuring a 2D graphical interface. Supports two-player mode and AI opponents at various difficulty levels.
+### 📌 [Chess_Python: Engine Cờ Vua Tự Xây Dựng](https://github.com/VanDung-dev/Chess_Python)
+Ứng dụng game cờ vua đa nền tảng sử dụng PyGame với giao diện đồ họa 2D cơ bản. Hỗ trợ cả chế độ chơi hai người và chơi với máy ở nhiều cấp độ khó.
 
-**🔧 Technical Highlights:**
-  - Custom chess model implementation without PyChess library
-  - Minimax algorithm for move suggestions
-  - OOP architecture with clean separation of concerns
+**🔧 Điểm nổi bật kỹ thuật:**
+  - Mô hình cờ vua tự phát triển không dựa trên PyChess
+  - Thuật toán Minimax cho gợi ý nước đi
+  - Kiến trúc OOP với sự tách biệt rõ ràng giữa các thành phần
 
-### 📌 [DSB-bot: Multifunctional Discord Bot](https://github.com/VanDung-dev/DSB-bot)
-A Discord bot with over 20 commands developed using Discord.py API. Integrates third-party services like YouTube, image search, and AI chatbot.
+### 📌 [DSB-bot: Bot Discord Đa Chức Năng](https://github.com/VanDung-dev/DSB-bot)
+Bot Discord với hơn 20 lệnh khác nhau được phát triển bằng Discord.py API. Tích hợp nhiều dịch vụ bên thứ ba như YouTube, tìm hình ảnh, chat bot AI.
 
-**🔧 Technical Highlights:**
-  - Asyncio-based architecture for high performance
-  - PostgreSQL integration for persistent data storage
-  - Modular design with cog system for command organization
+**🔧 Điểm nổi bật kỹ thuật:**
+  - Kiến trúc dựa trên Asyncio cho hiệu suất cao
+  - Tích hợp PostgreSQL để lưu trữ dữ liệu bền vững
+  - Thiết kế module hóa với hệ thống cog để tổ chức lệnh
 
-### 📌 [Chess_AI_ROCm: AI Training Model](https://github.com/VanDung-dev/Chess_AI_ROCm)
-Project combining neural networks (CNN + Transformer) and Monte Carlo Tree Search (MCTS) algorithms, supporting learning from PGN data and self-play.
+### 📌 [Chess_AI_ROCm: Mô Hình Huấn Luyện AI](https://github.com/VanDung-dev/Chess_AI_ROCm)
+Dự án kết hợp giữa mạng nơ-ron (CNN + Transformer) và thuật toán tìm kiếm cây Monte Carlo (MCTS), hỗ trợ học từ dữ liệu PGN và tự chơi.
 
-**🔧 Technical Highlights:**
-  - PyTorch implementation optimized for AMD ROCm
-  - Custom training pipeline for chess AI
-  - GPU-accelerated model training on Radeon hardware
+**🔧 Điểm nổi bật kỹ thuật:**
+  - Triển khai PyTorch được tối ưu cho AMD ROCm
+  - Pipeline huấn luyện tùy chỉnh cho AI cờ vua
+  - Huấn luyện mô hình tăng tốc GPU trên phần cứng Radeon
 
 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Thống kê GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanDung-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanDung-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=vi&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale=vi&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
 
 ---
 
-## 📬 Contact
+## 📬 Liên hệ
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dung-nguyen-211bab348/">
@@ -131,8 +131,8 @@ Project combining neural networks (CNN + Transformer) and Monte Carlo Tree Searc
 </div>
 
 <div align="center" style="margin-top: 20px; padding: 12px; background: linear-gradient(145deg, #2e7d32, #1b5e20); border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <a href="README_vi.md" style="color: #fff; font-size: 1.6em; text-decoration: none; font-weight: bold;">
-     Xem phiên bản Tiếng Việt
+  <a href="README.md" style="color: #fff; font-size: 1.6em; text-decoration: none; font-weight: bold;">
+     View English version
   </a>
 </div>
 
