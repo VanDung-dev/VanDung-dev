@@ -130,14 +130,8 @@ Dự án kết hợp giữa mạng nơ-ron (CNN + Transformer) và thuật toán
   
 </div>
 
-<div align="center" style="margin-top: 20px; padding: 12px; background: linear-gradient(145deg, #2e7d32, #1b5e20); border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <a href="README.md" style="color: #fff; font-size: 1.6em; text-decoration: none; font-weight: bold;">
-     View English version
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+### [View English version](README.md)

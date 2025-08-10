@@ -130,14 +130,8 @@ Project combining neural networks (CNN + Transformer) and Monte Carlo Tree Searc
   
 </div>
 
-<div align="center" style="margin-top: 20px; padding: 12px; background: linear-gradient(145deg, #2e7d32, #1b5e20); border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <a href="README_vi.md" style="color: #fff; font-size: 1.6em; text-decoration: none; font-weight: bold;">
-     Xem phiên bản Tiếng Việt
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+### [Xem phiên bản Tiếng Việt](README_vi.md)
