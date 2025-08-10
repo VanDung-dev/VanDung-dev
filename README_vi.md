@@ -1,10 +1,8 @@
 
 # 👋 Chào bạn!
-<div>
-  <h2>Tôi là Nguyễn Lê Văn Dũng</h2>
-  <h3>🚀 Kỹ sư Python</h3>
-  <p><em>Xây dựng các giải pháp sáng tạo với Python</em></p>
-</div>
+## Tôi là Nguyễn Lê Văn Dũng
+### 🚀 Kỹ sư Python
+Xây dựng các giải pháp sáng tạo với Python
 
 ---
 > ☕ Code không chạy? Đừng lo, đó chỉ là... tính năng thử nghiệm chưa hoàn thiện!
@@ -19,23 +17,15 @@
 
 ## 🏅 Chứng chỉ HarvardX &nbsp;
 
-<div style="background: #f8f9fa; border-left: 4px solid #A51C30; padding: 10px 15px; margin: 15px 0; border-radius: 4px;">
-  <h2 style="color: #333; margin: 0;">
-    <strong>HarvardX: Introduction to Data Science with Python (CS109x)</strong>
-  </h2>
-  <p style="margin: 8px 0; font-size: 1.1em; color: #333;">
-    HarvardX, an online learning initiative of Harvard University
-  </p>
-  <p style="margin: 5px 0; font-size: 1.1em; color: #333;">
-    <strong>Issued:</strong> July 30, 2025 | <strong>ID:</strong> a80e973c773143f1a16b2a8e8eb72d6d
-  </p>
-  <p style="margin: 5px 0; font-size: 1.1em; color: #333;">
-    <strong>Verified by:</strong> Pavlos Protopapas, Scientific Program Director Harvard
-  </p>
-  <a href="https://courses.edx.org/certificates/a80e973c773143f1a16b2a8e8eb72d6d" style="display: inline-block; background: #A51C30; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; margin-top: 10px; font-weight: bold;">
-    View Verified Certificate
-  </a>
-</div>
+> **HarvardX: Introduction to Data Science with Python (CS109x)**
+>
+> HarvardX, an online learning initiative of Harvard University
+>
+> **Issued:** July 30, 2025 | **ID:** a80e973c773143f1a16b2a8e8eb72d6d
+>
+> **Verified by:** Pavlos Protopapas, Scientific Program Director Harvard
+>
+> [View Verified Certificate](https://courses.edx.org/certificates/a80e973c773143f1a16b2a8e8eb72d6d)
 
 ---
 
