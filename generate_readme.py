@@ -36,11 +36,9 @@ def generate_readme(lang):
     # Tạo nội dung README
     md_content = f"""
 # 👋 {profile['hello']}
-<div>
-  <h2>{profile['name']}</h2>
-  <h3>🚀 {profile['title']}</h3>
-  <p><em>{profile['description']}</em></p>
-</div>
+## {profile['name']}
+### 🚀 {profile['title']}
+{profile['description']}
 
 ---
 > {fun_fact}
@@ -55,23 +53,15 @@ def generate_readme(lang):
 
 ## 🏅 {harvard_cert_badge['badge']} &nbsp;
 
-<div style="background: #f8f9fa; border-left: 4px solid #A51C30; padding: 10px 15px; margin: 15px 0; border-radius: 4px;">
-  <h2 style="color: #333; margin: 0;">
-    <strong>{harvard_cert_title['title']}</strong>
-  </h2>
-  <p style="margin: 8px 0; font-size: 1.1em; color: #333;">
-    {harvard_cert['issuer']}
-  </p>
-  <p style="margin: 5px 0; font-size: 1.1em; color: #333;">
-    <strong>Issued:</strong> {harvard_cert['date']} | <strong>ID:</strong> {harvard_cert['id']}
-  </p>
-  <p style="margin: 5px 0; font-size: 1.1em; color: #333;">
-    <strong>Verified by:</strong> {harvard_cert['signature']}
-  </p>
-  <a href="{harvard_cert['url']}" style="display: inline-block; background: #A51C30; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; margin-top: 10px; font-weight: bold;">
-    View Verified Certificate
-  </a>
-</div>
+> **{harvard_cert_title['title']}**
+>
+> {harvard_cert['issuer']}
+>
+> **Issued:** {harvard_cert['date']} | **ID:** {harvard_cert['id']}
+>
+> **Verified by:** {harvard_cert['signature']}
+>
+> [View Verified Certificate]({harvard_cert['url']})
 
 ---
 
