@@ -9,8 +9,8 @@ Xây dựng các giải pháp sáng tạo với Python
 
 ## 📚 Hồ sơ học thuật
 
-🎓 **Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành**  
-📘 Công nghệ Thông tin - Kỹ sư Phần mềm
+**Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành**  
+Công nghệ Thông tin - Kỹ sư Phần mềm
 
 ---
 
@@ -35,7 +35,6 @@ Xây dựng các giải pháp sáng tạo với Python
   <img src="https://img.shields.io/badge/  OOP-3776AB?logo=python&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/  Asynchronous-3776AB?logo=python&logoColor=white" alt="Asynchronous" />
   <img src="https://img.shields.io/badge/  Data Structures & Algorithms-3776AB?logo=python&logoColor=white" alt="DSA" />
-</p>
 
 ### 🧩 Thư viện & Framework Python
   <img src="https://img.shields.io/badge/  NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
@@ -43,7 +42,6 @@ Xây dựng các giải pháp sáng tạo với Python
   <img src="https://img.shields.io/badge/  PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/  Flask-000000?logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/  FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
 
 ### 🧰 Công cụ & Công nghệ
   <img src="https://img.shields.io/badge/  Git-F05032?logo=git&logoColor=white" alt="Git" />
@@ -51,7 +49,6 @@ Xây dựng các giải pháp sáng tạo với Python
   <img src="https://img.shields.io/badge/  Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/  Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/  PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
 
 
 ---
