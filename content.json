@@ -1,0 +1,301 @@
+{
+  "profile": {
+    "en": {
+      "hello": "Hey there!",
+      "name": "My name is Nguyen Le Van Dung",
+      "title": "Python Engineer",
+      "description": "Building innovative solutions with Python"
+    },
+    "vi": {
+      "hello": "Chào bạn!",
+      "name": "Tôi là Nguyễn Lê Văn Dũng",
+      "title": "Kỹ sư Python",
+      "description": "Xây dựng các giải pháp sáng tạo với Python"
+    }
+  },
+  "academic": {
+    "en": {
+      "title": "Academic Profile",
+      "institution": "National Institute of International Education (NIIE), Nguyen Tat Thanh University",
+      "program": "Information Technology - Software Engineering"
+    },
+    "vi": {
+      "title": "Hồ sơ học thuật",
+      "institution": "Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành",
+      "program": "Công nghệ Thông tin - Kỹ sư Phần mềm",
+      "year": "Sinh viên năm hai"
+    }
+  },
+  "harvard_cert": {
+    "en": {
+      "badge": "HarvardX Certificate"
+    },
+    "vi": {
+      "badge": "Chứng chỉ HarvardX"
+    },
+    "title": "HarvardX: Introduction to Data Science with Python (CS109x)",
+    "issuer": "HarvardX, an online learning initiative of Harvard University",
+    "date": "July 30, 2025",
+    "id": "a80e973c773143f1a16b2a8e8eb72d6d",
+    "url": "https://courses.edx.org/certificates/a80e973c773143f1a16b2a8e8eb72d6d",
+    "signature": "Pavlos Protopapas, Scientific Program Director Harvard"
+  },
+  "technical_skills": {
+    "en": {
+      "title": "Technical Skills",
+      "core": {
+        "title": "Core Python Expertise",
+        "items": [
+          {
+            "name": "Python",
+            "badge": "Python-3776AB?logo=python&logoColor=white"
+          },
+          {
+            "name": "OOP",
+            "badge": "OOP-3776AB?logo=python&logoColor=white"
+          },
+          {
+            "name": "Asynchronous",
+            "badge": "Async-3776AB?logo=python&logoColor=white"
+          },
+          {
+            "name": "DSA",
+            "badge": "Data Structures & Algorithms-3776AB?logo=python&logoColor=white"
+          }
+        ]
+      },
+      "libraries": {
+        "title": "Python Libraries & Frameworks",
+        "items": [
+          {
+            "name": "NumPy",
+            "badge": "NumPy-013243?logo=numpy&logoColor=white"
+          },
+          {
+            "name": "Pandas",
+            "badge": "Pandas-150458?logo=pandas&logoColor=white"
+          },
+          {
+            "name": "PyTorch",
+            "badge": "PyTorch-EE4C2C?logo=pytorch&logoColor=white"
+          },
+          {
+            "name": "Flask",
+            "badge": "Flask-000000?logo=flask&logoColor=white"
+          },
+          {
+            "name": "FastAPI",
+            "badge": "FastAPI-009688?logo=fastapi&logoColor=white"
+          }
+        ]
+      },
+      "tools": {
+        "title": "Tools & Technologies",
+        "items": [
+          {
+            "name": "Git",
+            "badge": "Git-F05032?logo=git&logoColor=white"
+          },
+          {
+            "name": "Docker",
+            "badge": "Docker-2496ED?logo=docker&logoColor=white"
+          },
+          {
+            "name": "Linux",
+            "badge": "Linux-FCC624?logo=linux&logoColor=black"
+          },
+          {
+            "name": "Jupyter",
+            "badge": "Jupyter-F37626?logo=jupyter&logoColor=white"
+          },
+          {
+            "name": "PostgreSQL",
+            "badge": "PostgreSQL-4169E1?logo=postgresql&logoColor=white"
+          }
+        ]
+      }
+    },
+    "vi": {
+      "title": "Kỹ năng chuyên môn",
+      "core": {
+        "title": "Chuyên môn Python cốt lõi",
+        "items": [
+          {
+            "name": "Python",
+            "badge": "Python-3776AB?logo=python&logoColor=white"
+          },
+          {
+            "name": "OOP",
+            "badge": "OOP-3776AB?logo=python&logoColor=white"
+          },
+          {
+            "name": "Asynchronous",
+            "badge": "Asynchronous-3776AB?logo=python&logoColor=white"
+          },
+          {
+            "name": "DSA",
+            "badge": "Data Structures & Algorithms-3776AB?logo=python&logoColor=white"
+          }
+        ]
+      },
+      "libraries": {
+        "title": "Thư viện & Framework Python",
+        "items": [
+          {
+            "name": "NumPy",
+            "badge": "NumPy-013243?logo=numpy&logoColor=white"
+          },
+          {
+            "name": "Pandas",
+            "badge": "Pandas-150458?logo=pandas&logoColor=white"
+          },
+          {
+            "name": "PyTorch",
+            "badge": "PyTorch-EE4C2C?logo=pytorch&logoColor=white"
+          },
+          {
+            "name": "Flask",
+            "badge": "Flask-000000?logo=flask&logoColor=white"
+          },
+          {
+            "name": "FastAPI",
+            "badge": "FastAPI-009688?logo=fastapi&logoColor=white"
+          }
+        ]
+      },
+      "tools": {
+        "title": "Công cụ & Công nghệ",
+        "items": [
+          {
+            "name": "Git",
+            "badge": "Git-F05032?logo=git&logoColor=white"
+          },
+          {
+            "name": "Docker",
+            "badge": "Docker-2496ED?logo=docker&logoColor=white"
+          },
+          {
+            "name": "Linux",
+            "badge": "Linux-FCC624?logo=linux&logoColor=black"
+          },
+          {
+            "name": "Jupyter",
+            "badge": "Jupyter-F37626?logo=jupyter&logoColor=white"
+          },
+          {
+            "name": "PostgreSQL",
+            "badge": "PostgreSQL-4169E1?logo=postgresql&logoColor=white"
+          }
+        ]
+      }
+    }
+  },
+  "projects": {
+    "en": [
+      {
+        "title": "Chess_Python: Custom Chess Engine",
+        "url": "https://github.com/VanDung-dev/Chess_Python",
+        "description": "A cross-platform chess game built with PyGame featuring a 2D graphical interface. Supports two-player mode and AI opponents at various difficulty levels.",
+        "highlights": [
+          "Custom chess model implementation without PyChess library",
+          "Minimax algorithm for move suggestions",
+          "OOP architecture with clean separation of concerns"
+        ]
+      },
+      {
+        "title": "DSB-bot: Multifunctional Discord Bot",
+        "url": "https://github.com/VanDung-dev/DSB-bot",
+        "description": "A Discord bot with over 20 commands developed using Discord.py API. Integrates third-party services like YouTube, image search, and AI chatbot.",
+        "highlights": [
+          "Asyncio-based architecture for high performance",
+          "PostgreSQL integration for persistent data storage",
+          "Modular design with cog system for command organization"
+        ]
+      },
+      {
+        "title": "Chess_AI_ROCm: AI Training Model",
+        "url": "https://github.com/VanDung-dev/Chess_AI_ROCm",
+        "description": "Project combining neural networks (CNN + Transformer) and Monte Carlo Tree Search (MCTS) algorithms, supporting learning from PGN data and self-play.",
+        "highlights": [
+          "PyTorch implementation optimized for AMD ROCm",
+          "Custom training pipeline for chess AI",
+          "GPU-accelerated model training on Radeon hardware"
+        ]
+      }
+    ],
+    "vi": [
+      {
+        "title": "Chess_Python: Engine Cờ Vua Tự Xây Dựng",
+        "url": "https://github.com/VanDung-dev/Chess_Python",
+        "description": "Ứng dụng game cờ vua đa nền tảng sử dụng PyGame với giao diện đồ họa 2D cơ bản. Hỗ trợ cả chế độ chơi hai người và chơi với máy ở nhiều cấp độ khó.",
+        "highlights": [
+          "Mô hình cờ vua tự phát triển không dựa trên PyChess",
+          "Thuật toán Minimax cho gợi ý nước đi",
+          "Kiến trúc OOP với sự tách biệt rõ ràng giữa các thành phần"
+        ]
+      },
+      {
+        "title": "DSB-bot: Bot Discord Đa Chức Năng",
+        "url": "https://github.com/VanDung-dev/DSB-bot",
+        "description": "Bot Discord với hơn 20 lệnh khác nhau được phát triển bằng Discord.py API. Tích hợp nhiều dịch vụ bên thứ ba như YouTube, tìm hình ảnh, chat bot AI.",
+        "highlights": [
+          "Kiến trúc dựa trên Asyncio cho hiệu suất cao",
+          "Tích hợp PostgreSQL để lưu trữ dữ liệu bền vững",
+          "Thiết kế module hóa với hệ thống cog để tổ chức lệnh"
+        ]
+      },
+      {
+        "title": "Chess_AI_ROCm: Mô Hình Huấn Luyện AI",
+        "url": "https://github.com/VanDung-dev/Chess_AI_ROCm",
+        "description": "Dự án kết hợp giữa mạng nơ-ron (CNN + Transformer) và thuật toán tìm kiếm cây Monte Carlo (MCTS), hỗ trợ học từ dữ liệu PGN và tự chơi.",
+        "highlights": [
+          "Triển khai PyTorch được tối ưu cho AMD ROCm",
+          "Pipeline huấn luyện tùy chỉnh cho AI cờ vua",
+          "Huấn luyện mô hình tăng tốc GPU trên phần cứng Radeon"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "en": {
+      "title": "Contact",
+      "email": "dungnguyen2661@gmail.com"
+    },
+    "vi": {
+      "title": "Liên hệ",
+      "email": "dungnguyen2661@gmail.com"
+    },
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/dung-nguyen-211bab348/",
+        "icon": "linkedin",
+        "color": "0077B5"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/vandungdev",
+        "icon": "telegram",
+        "color": "26A5E4"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/VanDung-dev",
+        "icon": "github",
+        "color": "181717"
+      }
+    ]
+  },
+  "stats": {
+    "en": {
+      "title": "GitHub Statistics"
+    },
+    "vi": {
+      "title": "Thống kê GitHub"
+    }
+  },
+  "language_switch": {
+    "en_to_vi": "Xem phiên bản Tiếng Việt",
+    "vi_to_en": "View English version"
+  }
+}
