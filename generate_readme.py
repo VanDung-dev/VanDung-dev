@@ -39,9 +39,8 @@ def generate_readme(lang):
 ## {profile['name']}
 ### 🚀 {profile['title']}
 {profile['description']}
-
----
 > {fun_fact}
+
 ---
 
 ## 📚 {academic['title']}
@@ -71,27 +70,22 @@ def generate_readme(lang):
 """
 
     # Thêm các kỹ năng cốt lõi dưới dạng huy hiệu
-    md_content += "<p>\n"
     for item in technical_skills['core']['items']:
         md_content += f"  <img src=\"https://img.shields.io/badge/  {item['badge']}\" alt=\"{item['name']}\" />\n"
     md_content += "</p>\n"
 
     md_content += f"""
-
 ### 🧩 {technical_skills['libraries']['title']}
 """
     # Thêm các thư viện dưới dạng huy hiệu
-    md_content += "<p>\n"
     for item in technical_skills['libraries']['items']:
         md_content += f"  <img src=\"https://img.shields.io/badge/  {item['badge']}\" alt=\"{item['name']}\" />\n"
     md_content += "</p>\n"
 
     md_content += f"""
-
 ### 🧰 {technical_skills['tools']['title']}
 """
     # Thêm các công cụ dưới dạng huy hiệu
-    md_content += "<p>\n"
     for item in technical_skills['tools']['items']:
         md_content += f"  <img src=\"https://img.shields.io/badge/  {item['badge']}\" alt=\"{item['name']}\" />\n"
     md_content += "</p>\n"
@@ -122,8 +116,8 @@ def generate_readme(lang):
 ## 📊 {stats['title']}
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanDung-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale={lang}&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale={lang}&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanDung-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 """
