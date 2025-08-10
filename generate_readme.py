@@ -35,8 +35,7 @@ def generate_readme(lang):
 
     # Tạo nội dung README
     md_content = f"""
-# 👋 {profile['hello']}
-## {profile['name']}
+# 👋 {profile['hello']} {profile['name']}
 ### 🚀 {profile['title']}
 {profile['description']}
 > {fun_fact}
@@ -126,17 +125,13 @@ def generate_readme(lang):
 
 ## 📬 {contact[lang]['title']}
 
-<div align="center">
 """
 
     # Thêm liên kết liên hệ
     for link in contact['links']:
-        md_content += f"""  <a href="{link['url']}">
-    <img src="https://img.shields.io/badge/{link['name']}-{link['color']}?logo={link['icon']}&logoColor=white&style=for-the-badge&effect=plastic" />
-  </a>
-  \n"""
+        md_content += f"[![{link['name']}](https://img.shields.io/badge/{link['name']}-{link['color']}?logo={link['icon']}&logoColor=white&style=for-the-badge&effect=plastic)]({link['url']})"
 
-    md_content += f"""</div>
+    md_content += f"""
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
