@@ -45,8 +45,8 @@ def generate_readme(lang):
 
 ## 📚 {academic['title']}
 
-🎓 **{academic['institution']}**  
-📘 {academic['program']}
+**{academic['institution']}**  
+{academic['program']}
 
 ---
 
@@ -72,7 +72,6 @@ def generate_readme(lang):
     # Thêm các kỹ năng cốt lõi dưới dạng huy hiệu
     for item in technical_skills['core']['items']:
         md_content += f"  <img src=\"https://img.shields.io/badge/  {item['badge']}\" alt=\"{item['name']}\" />\n"
-    md_content += "</p>\n"
 
     md_content += f"""
 ### 🧩 {technical_skills['libraries']['title']}
@@ -80,7 +79,6 @@ def generate_readme(lang):
     # Thêm các thư viện dưới dạng huy hiệu
     for item in technical_skills['libraries']['items']:
         md_content += f"  <img src=\"https://img.shields.io/badge/  {item['badge']}\" alt=\"{item['name']}\" />\n"
-    md_content += "</p>\n"
 
     md_content += f"""
 ### 🧰 {technical_skills['tools']['title']}
@@ -88,7 +86,6 @@ def generate_readme(lang):
     # Thêm các công cụ dưới dạng huy hiệu
     for item in technical_skills['tools']['items']:
         md_content += f"  <img src=\"https://img.shields.io/badge/  {item['badge']}\" alt=\"{item['name']}\" />\n"
-    md_content += "</p>\n"
 
     # Thêm các dự án nổi bật
     featured_projects_title = "🌟 Featured Projects" if lang == "en" else "🌟 Dự án nổi bật"
