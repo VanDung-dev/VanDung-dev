@@ -3,9 +3,8 @@
 ## My name is Nguyen Le Van Dung
 ### 🚀 Python Engineer
 Building innovative solutions with Python
-
----
 > ☕ Code not running? Don't worry, it's just... The testing feature is not complete!
+
 ---
 
 ## 📚 Academic Profile
@@ -32,16 +31,13 @@ Building innovative solutions with Python
 ## 💼 Technical Skills
 
 ### 🛠️ Core Python Expertise
-<p>
   <img src="https://img.shields.io/badge/  Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/  OOP-3776AB?logo=python&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/  Async-3776AB?logo=python&logoColor=white" alt="Asynchronous" />
   <img src="https://img.shields.io/badge/  Data Structures & Algorithms-3776AB?logo=python&logoColor=white" alt="DSA" />
 </p>
 
-
 ### 🧩 Python Libraries & Frameworks
-<p>
   <img src="https://img.shields.io/badge/  NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/  Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/  PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -49,9 +45,7 @@ Building innovative solutions with Python
   <img src="https://img.shields.io/badge/  FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-
 ### 🧰 Tools & Technologies
-<p>
   <img src="https://img.shields.io/badge/  Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/  Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/  Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
@@ -95,8 +89,8 @@ Project combining neural networks (CNN + Transformer) and Monte Carlo Tree Searc
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanDung-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanDung-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanDung-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
