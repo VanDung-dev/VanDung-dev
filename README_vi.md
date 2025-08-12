@@ -49,11 +49,10 @@ Công nghệ Thông tin - Kỹ sư Phần mềm
   - Kiến trúc OOP với sự tách biệt rõ ràng giữa các thành phần
 
 ### 📌 [DSB-bot: Bot Discord Đa Chức Năng](https://github.com/VanDung-dev/DSB-bot)
-Bot Discord với hơn 20 lệnh khác nhau được phát triển bằng Discord.py API. Tích hợp nhiều dịch vụ bên thứ ba như YouTube, tìm hình ảnh, chat bot AI.
+Bot Discord với khoảng 20 lệnh khác nhau được phát triển bằng Discord.py API. Tích hợp nhiều dịch vụ bên thứ ba như YouTube, tìm hình ảnh, chat bot AI.
 
 **🔧 Điểm nổi bật kỹ thuật:**
   - Kiến trúc dựa trên Asyncio cho hiệu suất cao
-  - Tích hợp PostgreSQL để lưu trữ dữ liệu bền vững
   - Thiết kế module hóa với hệ thống cog để tổ chức lệnh
 
 ### 📌 [Chess_AI_ROCm: Mô Hình Huấn Luyện AI](https://github.com/VanDung-dev/Chess_AI_ROCm)

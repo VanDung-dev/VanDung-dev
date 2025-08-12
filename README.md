@@ -49,11 +49,10 @@ A cross-platform chess game built with PyGame featuring a 2D graphical interface
   - OOP architecture with clean separation of concerns
 
 ### 📌 [DSB-bot: Multifunctional Discord Bot](https://github.com/VanDung-dev/DSB-bot)
-A Discord bot with over 20 commands developed using Discord.py API. Integrates third-party services like YouTube, image search, and AI chatbot.
+A Discord bot with about 20 commands developed using Discord.py API. Integrates third-party services like YouTube, image search, and AI chatbot.
 
 **🔧 Technical Highlights:**
   - Asyncio-based architecture for high performance
-  - PostgreSQL integration for persistent data storage
   - Modular design with cog system for command organization
 
 ### 📌 [Chess_AI_ROCm: AI Training Model](https://github.com/VanDung-dev/Chess_AI_ROCm)

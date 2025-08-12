@@ -205,10 +205,9 @@
       {
         "title": "DSB-bot: Multifunctional Discord Bot",
         "url": "https://github.com/VanDung-dev/DSB-bot",
-        "description": "A Discord bot with over 20 commands developed using Discord.py API. Integrates third-party services like YouTube, image search, and AI chatbot.",
+        "description": "A Discord bot with about 20 commands developed using Discord.py API. Integrates third-party services like YouTube, image search, and AI chatbot.",
         "highlights": [
           "Asyncio-based architecture for high performance",
-          "PostgreSQL integration for persistent data storage",
           "Modular design with cog system for command organization"
         ]
       },
@@ -237,10 +236,9 @@
       {
         "title": "DSB-bot: Bot Discord Đa Chức Năng",
         "url": "https://github.com/VanDung-dev/DSB-bot",
-        "description": "Bot Discord với hơn 20 lệnh khác nhau được phát triển bằng Discord.py API. Tích hợp nhiều dịch vụ bên thứ ba như YouTube, tìm hình ảnh, chat bot AI.",
+        "description": "Bot Discord với khoảng 20 lệnh khác nhau được phát triển bằng Discord.py API. Tích hợp nhiều dịch vụ bên thứ ba như YouTube, tìm hình ảnh, chat bot AI.",
         "highlights": [
           "Kiến trúc dựa trên Asyncio cho hiệu suất cao",
-          "Tích hợp PostgreSQL để lưu trữ dữ liệu bền vững",
           "Thiết kế module hóa với hệ thống cog để tổ chức lệnh"
         ]
       },
