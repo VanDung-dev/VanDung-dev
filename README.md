@@ -1,3 +1,6 @@
+<div align="right">
+  <a href="./README_vi.md">Tiếng Việt</a>
+</div>
 
 # 👋 Hey there! My name is Nguyen Le Van Dung
 ### 🚀 Python Engineer
@@ -25,9 +28,12 @@ Information Technology - Software Engineering
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&effect=plastic)](https://www.linkedin.com/in/dung-nguyen-211bab348/)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&effect=plastic)](https://t.me/vandungdev)[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&effect=plastic)](https://github.com/VanDung-dev)
+💼 **Professional Networks:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen-211bab348/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/VanDung-dev)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/vandungdev) 
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
