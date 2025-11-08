@@ -38,7 +38,7 @@ Công nghệ Thông tin - Kỹ thuật Phần mềm
 ---
 
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/VanDung-dev/VanDung-dev/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
