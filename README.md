@@ -29,8 +29,6 @@ Information Technology - Software Engineering
 ---
 
 ## 📬 Contact Me
-
-💼 **Professional Networks:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen-211bab348/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/VanDung-dev)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/vandungdev) 
 
 ---
