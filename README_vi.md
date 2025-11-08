@@ -1,7 +1,3 @@
-<div align="right">
-  <a href="./README.md">English</a>
-</div>
-
 # 👋 Xin chào! Tôi là Nguyễn Lê Văn Dũng
 ### 🚀 Kỹ sư Python
 Xây dựng các giải pháp sáng tạo với Python
@@ -43,4 +39,10 @@ Công nghệ Thông tin - Kỹ thuật Phần mềm
 
 <div align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="right">
+  <a href="./README.md">English</a>
 </div>

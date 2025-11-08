@@ -1,7 +1,3 @@
-<div align="right">
-  <a href="./README_vi.md">Tiếng Việt</a>
-</div>
-
 # 👋 Hey there! My name is Nguyen Le Van Dung
 ### 🚀 Python Engineer
 Building innovative solutions with Python
@@ -44,4 +40,10 @@ Information Technology - Software Engineering
 
 <div align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="right">
+  <a href="./README_vi.md">Tiếng Việt</a>
 </div>
