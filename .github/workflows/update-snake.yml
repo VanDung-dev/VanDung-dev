@@ -1,0 +1,29 @@
+name: Update Snake
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: VanDung-dev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
+
+      - name: Push to GitHub
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - run: git config --global user.name "VanDung-dev"
+      - run: git config --global user.email "dungnguyen2661@gmail.com"
+      - run: git add dist/
+      - run: git commit -m "Update snake animation"
+      - run: git push
