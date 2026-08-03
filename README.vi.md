@@ -1,41 +1,41 @@
-# 👋 Hey there! My name is Nguyen Le Van Dung
-### 🚀 Software Engineer
-Python as the main language, Rust as the sidekick via PyO3 to build innovative solutions
-> ☕ Code not running? Don't worry, it's just... The testing feature is not complete!
+# 👋 Xin chào! Tôi là Nguyễn Lê Văn Dũng
+### 🚀 Kỹ sư Phần mềm
+Python là ngôn ngữ chính, Rust là trợ thủ qua PyO3 để xây dựng các giải pháp sáng tạo
+> ☕ Code không chạy? Đừng lo, chỉ là... Tính năng kiểm thử chưa hoàn thiện!
 
 ---
 
-## 📚 Academic Profile
+## 📚 Hồ sơ học vấn
 
-**National Institute of International Education (NIIE), Nguyen Tat Thanh University**  
-Information Technology - Software Engineering
+**Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành**  
+Công nghệ Thông tin - Kỹ thuật Phần mềm
 
 ---
 
-## 💼 Technical Skills
+## 💼 Kỹ năng kỹ thuật
 
-### 🛠️ Core Expertise
+### 🛠️ Chuyên môn cốt lõi
   <img src="https://img.shields.io/badge/  Python-3776AB?logo=python&logoColor=white" alt="Python" />  <img src="https://img.shields.io/badge/  Rust-F37626?logo=rust&logoColor=white">
 
-### 🧩 Libraries & Frameworks
+### 🧩 Thư viện & Framework
   <img src="https://img.shields.io/badge/  Django-092E20?logo=django&logoColor=white" alt="Django" />  <img src="https://img.shields.io/badge/  FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />  <img src="https://img.shields.io/badge/  PyO3-000000?logo=Rust&logoColor=white" alt="PyO3" />
 
-### 🧰 Tools & Technologies
+### 🧰 Công cụ & Công nghệ
   <img src="https://img.shields.io/badge/  Git-F05032?logo=git&logoColor=white" alt="Git" />  <img src="https://img.shields.io/badge/  Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />  <img src="https://img.shields.io/badge/  Linux-FCC624?logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/  PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 
 ---
 
-## 🔬 Research Projects
+## 🧪 Dự án nghiên cứu
 
-- [**HieraChain**](https://github.com/VanDung-dev/HieraChain): Can a blockchain run without the cost of creating blocks?
-- [**RustYolo**](https://github.com/VanDung-dev/RustYolo): Can YOLOv8 run on a weak device?
-- [**basaltic-red**](https://github.com/VanDung-dev/basaltic-red): Can a farmer's big-data land be mined?
+- [**HieraChain**](https://github.com/VanDung-dev/HieraChain): Blockchain chạy mà không tốn chi phí tạo block được không ta?
+- [**RustYolo**](https://github.com/VanDung-dev/RustYolo): YOLOv8 trên máy yếu xìu chạy được không nhỉ?
+- [**basaltic-red**](https://github.com/VanDung-dev/basaltic-red): Mảnh đất Bigdata của người nông dân khai thác được không ta?
 
-> It runs, right? =)))
+> Nó chạy được, nhỉ? =)))
 
 ---
 
-## 📬 Contact Me
+## 📬 Liên hệ với tôi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen-le-van-211bab348/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/vandungdev) 
 
 ---
@@ -47,5 +47,5 @@ Information Technology - Software Engineering
 ---
 
 <div align="right">
-  <a href="README.vi.md">Tiếng Việt</a>
+  <a href="./README.md">English</a>
 </div>
