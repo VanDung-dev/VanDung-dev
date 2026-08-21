@@ -28,7 +28,6 @@ Công nghệ Thông tin - Kỹ thuật Phần mềm
 ## 🧪 Dự án nghiên cứu
 
 - [**HieraChain**](https://github.com/VanDung-dev/HieraChain): Blockchain chạy mà không tốn chi phí tạo block được không ta?
-- [**RustYolo**](https://github.com/VanDung-dev/RustYolo): YOLOv8 trên máy yếu xìu chạy được không nhỉ?
 - [**basaltic-red**](https://github.com/VanDung-dev/basaltic-red): Mảnh đất Bigdata của người nông dân khai thác được không ta?
 
 > Nó chạy được, nhỉ? =)))

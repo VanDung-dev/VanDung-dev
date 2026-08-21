@@ -28,7 +28,6 @@ Information Technology - Software Engineering
 ## 🔬 Research Projects
 
 - [**HieraChain**](https://github.com/VanDung-dev/HieraChain): Can a blockchain run without the cost of creating blocks?
-- [**RustYolo**](https://github.com/VanDung-dev/RustYolo): Can YOLOv8 run on a weak device?
 - [**basaltic-red**](https://github.com/VanDung-dev/basaltic-red): Can a farmer's big-data land be mined?
 
 > It runs, right? =)))
